@@ -1,7 +1,7 @@
 # registration-app
 
 #Instalação do Node.js - (Linux-WSL)
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 #Configuração do Projeto
